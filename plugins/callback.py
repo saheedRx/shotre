@@ -69,15 +69,13 @@ async def about_cb(c, m):
     
 ╭───[ **🔅 FɪʟᴇSᴛᴏʀᴇBᴏᴛ 🔅** ]───⍟
 │
-├**🔸Vᴇʀꜱɪᴏɴ :** `3.0.1`
+├**🔹OWNER NAME :** SHD
 │
-├**🔹Sᴏᴜʀᴄᴇ :** [Cʟɪᴄᴋ Hᴇʀᴇ 🥰](https://github.com/avipatilpro/FileStoreBot)
+├**🔸TAMIL MOVIES :** [MOVIES](https://t.me/Tamil_Kingdom)
 │
-├**🔸GitHub :** [Fᴏʟʟᴏᴡ](https://GitHub.com/avipatilpro)
+├**🔹TAMIL WEBSERIES :** [WEBSERIES](https://t.me/Tamil_Kingdom)
 │
-├**🔹Dᴇᴠᴇʟᴏᴘᴇʀ :** [Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ](https://telegram.me/Avishkarpatil)
-│
-├**🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ :** [[ 12-ᴊᴜʟʏ-21 ]](https://telegram.me/AvishkarPatil)
+├**🔸MY CHANNEL :** [TAMIL KINGDOM](https://t.me/Tamil_Kingdom)
 │
 ╰─────────[ 😎 ]────────⍟
 """  
