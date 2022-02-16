@@ -28,22 +28,20 @@ async def start(c, m, cb=False):
     # start text
     text = f"""**Hᴇʏ!** {m.from_user.mention(style='md')}
     
-🤗 **I'm FileStoreBot **
+🤗 **I'm File Bank Bot **
 
 ‣ Yᴏᴜ ᴄᴀɴ sᴛᴏʀᴇ ʏᴏᴜʀ Tᴇʟᴇɢʀᴀᴍ Mᴇᴅɪᴀ ғᴏʀ ᴘᴇʀᴍᴀɴᴇɴᴛ Lɪɴᴋ! ᴀɴᴅ Sʜᴀʀᴇ Aɴʏᴡʜᴇʀᴇ
 
 ‣ Cʟɪᴄᴋ ᴏɴ Hᴇʟᴘ ᴀɴᴅ Kɴᴏᴡ Mᴏʀᴇ Aʙᴏᴜᴛ Usɪɴɢ ᴍᴇ
 
-__🚸 Pᴏʀɴ Cᴏɴᴛᴇɴᴛ Nᴏᴛ Aʟʟᴏᴡᴇᴅ Oɴ Tʜᴇ Bᴏᴛ__
-
-**💞 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ:** {owner.mention(style='md')}
+**💞 Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ:** {@Tamil_Kingdom(style='md')}
 """
 
     # Buttons
     buttons = [[
             InlineKeyboardButton('Hᴇʟᴘ 💡', callback_data="help"),
             InlineKeyboardButton('Aʙᴏᴜᴛ 👑', callback_data="about")],[
-            InlineKeyboardButton('Mʏ Fᴀᴛʜᴇʀ 👨‍✈️', url=f"https://t.me/{owner_username}"),
+            InlineKeyboardButton('My Channel 👨‍✈️', url=f"https://t.me/Tamil_Kingdom"),
         ]]
 
     # when button home is pressed
